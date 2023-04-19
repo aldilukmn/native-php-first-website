@@ -1,0 +1,35 @@
+/* .jumbotron {
+  padding: 2rem 1rem;
+  background-color: #e2e3e5;
+} */
+
+th {
+  background-color: blue;
+}
+
+.jumbotron-lab, .jumbotron-serv, .jumbotron-cli {
+  padding: 4rem 1rem;
+  background-position: center;
+  background-size: cover;
+  height: 300px;
+}
+
+.jumbotron-lab {
+  background-image: url("../../assets/img/doctor5.jpg");
+}
+
+.jumbotron-serv {
+
+  background-image: url("../../assets/img/doctor14.jpg");
+
+}
+
+.jumbotron-cli {
+
+  background-image: url("../../assets/img/doctor15.jpg");
+
+}
+
+.custom-alert {
+  margin: 0 32rem;
+}
